@@ -27,7 +27,7 @@
 ========================================================= */
 
 const API_BASE_URL = "https://jabicoconsultancy-2.onrender.com";
-
+const API_URL = import.meta.env.VITE_API_URL;
 /*
    ^ Change ONLY the line above when you deploy.
    Example once deployed:
